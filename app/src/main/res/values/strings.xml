@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Extremous</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="API">http://extremo.us/api/</string>
+    <string name="MOBILE">http://extremo.us/mobile</string>
+
+    <string-array name="endpoints">
+        <item name="meetups">meetups</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_section1">Meetups</string>
+    <string name="title_section2">View</string>
+    <string name="title_section3">Login</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_meetup">MeetupActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
